@@ -1,0 +1,37 @@
+body {
+/* Tipo de letras para el cuerpo de la página */
+    font-family:Swis721 Cn BT, Baskerville Old Face, Arial Narrow;
+	
+	
+}
+/* tamaño del conteedor de la receta receta 6*/
+
+#contenedor{
+
+	width:1020px;
+	margin:auto;
+	padding:20px;
+    height: 1250px;
+    
+}
+/* color y tamaño de letra asignado al titulo*/
+h1 {
+    color: #3B9C36; 
+    font-size:60px;
+} 
+/* color y tamaño de letra asignado al subtitulo*/
+h2 
+{
+    color:coral;
+    font-size:40px;
+} 
+
+/* color y tamaño de letra asignado a parrafos y lista*/
+
+p, li {
+
+    color:black; 
+    font-size:25px;
+
+}
+ 

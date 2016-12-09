@@ -1,0 +1,43 @@
+body {
+/* Tipo de letras para el cuerpo de la página */
+    font-family:Swis721 Cn BT, Baskerville Old Face, Arial Narrow;
+	background-color: pink;
+	
+}
+
+/* tamaño del contenedor de la receta 8*/
+#contenedor{
+	width:650px;
+	margin:auto;
+	padding:5px;
+    height: 650px;
+    
+}
+
+h1 /* Propiedades del título*/
+{
+    color: orangered; 
+    font-size:60px;
+} 
+/* Propiedades del subtitulo*/
+h2 
+{
+    color: orangered; 
+    font-size:25px;
+} 
+
+/* Propiedades del texto de la pagina*/
+h3 {
+
+	color: black;
+}
+
+/* Propiedades del parrafa y de la lista, tamaño y color*/
+p, li {
+
+    color: black; 
+    font-size:20px;
+	
+
+}
+

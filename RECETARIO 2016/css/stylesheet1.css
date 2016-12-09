@@ -1,0 +1,39 @@
+body {
+/* Tipo de letras para el cuerpo de la página */
+    font-family:Swis721 Cn BT, Baskerville Old Face, Arial Narrow;
+     background="imagenes/misrecetasdecocina.jpg";
+	
+	
+}
+
+/*tamaño aplicado al contenedor de la receta 7*/
+#contenedor{
+
+	width:700px;
+	margin:auto;
+	padding:5px;
+    height: 700px;
+    
+}
+
+h1 {/* color y tamaño de letra asignado al titulo*/
+    color: rebeccapurple; 
+    font-size:50px;
+} 
+
+h2 
+{/* color y tamaño asignado al subtitulo*/
+    color: rebeccapurple; 
+    font-size:33px;
+} 
+
+
+
+
+p, li {/* color y tamaño asignado a la lista ordenada y desordenada*/
+
+    color: black; 
+    font-size:18px;
+
+}
+
